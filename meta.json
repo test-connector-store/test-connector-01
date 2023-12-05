@@ -1,4 +1,6 @@
 {
   "name": "Shayan",
-  "owner": "WSO2"
+  "owner": "WSO2",
+  "description": "Test Description",
+  "category": "Category 01"
 }
