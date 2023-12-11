@@ -1,6 +1,6 @@
 # test-connector-01
 
-**Name:** Shayan Malinda
+**Name:** Connector 01
 
 **Owner:** WSO2
 
