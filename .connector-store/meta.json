@@ -3,5 +3,6 @@
   "owner": "WSO2",
   "category": "Integration",
   "documentationUrl": "https://github.com/test-connector-store/test-connector-01/edit/main/meta.json",
-  "description": "This is the Connector 01"
+  "description": "This is the Connector 01",
+  "tags": ["Tag 01", "Tag 02"]
 }
