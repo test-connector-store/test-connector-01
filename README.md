@@ -2,4 +2,3 @@
 
 
 Test Connector 01
-Hello Connector
