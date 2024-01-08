@@ -5,6 +5,6 @@
   "documentationUrl": "https://github.com/test-connector-store/test-connector-01/edit/main/meta.json",
   "description": "This is Connector 111",
   "status": "Active",
-  "label": ["Tag 01", "Tag 05"]
+  "label": ["Tag 01", "Tag 05", "Tag 07"]
 }
 
