@@ -5,5 +5,23 @@
   "documentationUrl": "https://github.com/test-connector-store/test-connector-01/edit/main/meta.json",
   "description": "This is Connector 111",
   "status": "Active",
-  "labels": ["Tag 01", "Tag 05", "Tag 07"]
+  "labels": [
+    "Tag 01",
+    "Tag 05",
+    "Tag 07"
+  ],
+  "releases": [
+    {
+      "release-01": [
+        "EI 6.5.0",
+        "EI 7.0.0"
+      ]
+    },
+    {
+      "release-02": [
+        "EI 1.1.0",
+        "EI 7.0.0"
+      ]
+    }
+  ]
 }
