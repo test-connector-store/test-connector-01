@@ -12,13 +12,15 @@
   ],
   "releases": [
     {
-      "release-01": [
+      "tagName": "release-01",
+      "supportProducts": [
         "EI 6.5.0",
         "EI 7.0.0"
       ]
     },
     {
-      "release-02": [
+      "tagName": "release-02",
+      "supportProducts": [
         "EI 1.1.0",
         "EI 2.0.0"
       ]
