@@ -15,7 +15,8 @@
       "tagName": "release-01",
       "products": [
         "EI 8.0.0",
-        "EI 7.0.0"
+        "EI 7.2.0",
+        "EI 10.0"
       ]
     },
     {
