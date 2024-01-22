@@ -1,0 +1,30 @@
+{
+  "name": "Connector 001",
+  "owner": "WSO2 Connector Store",
+  "category": "Integration",
+  "documentationUrl": "https://github.com/test-connector-store/test-connector-01/edit/main/meta.json",
+  "description": "This is Connector 111",
+  "status": "Active",
+  "labels": [
+    "Tag 01",
+    "Tag 05",
+    "Tag 07"
+  ],
+  "releases": [
+    {
+      "tagName": "release-01",
+      "products": [
+        "EI 8.0.1",
+        "EI 7.2.0",
+        "EI 11.0.0"
+      ]
+    },
+    {
+      "tagName": "release-02",
+      "products": [
+        "EI 1.1.0",
+        "EI 2.0.0"
+      ]
+    }
+  ]
+}
