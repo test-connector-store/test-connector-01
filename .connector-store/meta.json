@@ -1,5 +1,5 @@
 {
-  "name": "Sample Connector",
+  "name": "My Connector",
   "owner": "Shayan",
   "category": "Cloud Integration",
   "documentationUrl": "https://github.com/test-connector-store/test-connector-01/edit/main/meta.json",
