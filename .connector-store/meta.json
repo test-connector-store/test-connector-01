@@ -8,7 +8,7 @@
   "labels": [
     "Integration",
     "Connector",
-    "Support 1234"
+    "1"
   ],
   "releases": [
     {
@@ -16,7 +16,6 @@
       "products": [
         "EI 1.1.0",
         "IS 1.0.0",
-        "        123"
       ]
     },
     {
