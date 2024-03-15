@@ -16,8 +16,8 @@
       "products": [
         "EI 1.1.0",
         "IS 1.1.0",
-        "PQR 1.2.0"
-      ]
+        "PQR 1.2.1"
+      ],
     },
     {
       "tagName": "release-1",
