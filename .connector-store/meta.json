@@ -17,8 +17,7 @@
         "EI 1.1.0",
         "IS 1.1.0",
         "PQR 12.9.3"
-      ],
-      "isDeprecated": true
+      ]
     },
     {
       "tagName": "release-1",
