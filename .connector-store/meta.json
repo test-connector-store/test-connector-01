@@ -3,7 +3,7 @@
   "owner": "Salesforce",
   "category": "Cloud",
   "documentationUrl": "https://developer.salesforce.com/docs",
-  "description": "Dffortlessly integrate your Salesforce data with other business systems using our powerful Salesforce connector. Seamlessly synchronize customer information, sales transactions, and lead data, ensuring smooth data flow and improved efficiency in your organization. Simplify your Salesforce integration process and streamline your business operations today.",
+  "description": "Effortlessly integrate your Salesforce data with other business systems using our powerful Salesforce connector. Seamlessly synchronize customer information, sales transactions, and lead data, ensuring smooth data flow and improved efficiency in your organization. Simplify your Salesforce integration process and streamline your business operations today.",
   "status": "Active",
   "labels": [
     "Integration",
